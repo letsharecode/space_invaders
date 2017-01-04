@@ -88,6 +88,7 @@ public class GamePanel extends JPanel implements ActionListener{
 		INIT_ROWS = rows;
 		addDefender();
 		addShield();
+		
 	}
 	
 	private void setUpShield(Graphics g){

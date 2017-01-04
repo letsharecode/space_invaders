@@ -11,7 +11,6 @@ public class MotherShip extends Ship{
 	@Override
 	void attack() {
 		// TODO Auto-generated method stub
-		
 	}
 	
 }
